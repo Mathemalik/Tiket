@@ -1,9 +1,4 @@
 /* 
-first build 30-11-2019 at 09.00PM
-modify1 : 30-11-2019 23:10PM
-modify2 : 01-12-2019 01:12AM
-modify3 : 01-12-2019 03:12AM
-last modify : 01-12-2019 03:26AM
 Create by : 
 1911511234 : Miftaugro Malik
 */
